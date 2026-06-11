@@ -1,0 +1,7 @@
+ucimlrepo
+aif360
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
