@@ -4,7 +4,7 @@ An end-to-end audit of a credit-risk classification model, examining whether a l
 
 ## Motivation
 
-Lending models are among the highest-stakes applications of machine learning — approval or denial directly affects financial access. This project investigates whether a simple, interpretable model can achieve acceptable predictive performance while remaining fair across protected attributes (gender, age, and foreign worker status).
+Lending models are among the highest-stakes applications of machine learning. Approval or denial directly affects financial access. This project investigates whether a simple, interpretable model can achieve acceptable predictive performance while remaining fair across protected attributes (gender, age, and foreign worker status).
 
 ## Data
 
